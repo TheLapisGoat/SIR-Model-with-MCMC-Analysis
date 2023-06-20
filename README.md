@@ -8,4 +8,4 @@ Most of the analysis is done in [SIR.ipynb](./SIR.ipynb).
 
 [Report](./Report/Report.pdf) of the project.
 ## Setup
-Install all dependencies using `pip install - r requirements.txt.`
+Install all dependencies using `pip install -r requirements.txt`.
